@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.qamelior.templatedatabase",
+  "version": "1.0.0",
+  "displayName": "Template Database",
+  "description": "Solution for cataloging and accessing scriptable objects in your project",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nikita Veselov",
+    "email": "nick.veselov.gamedev@gmail.com"
+  }
+}
