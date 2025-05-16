@@ -1,6 +1,6 @@
 # Template Database
 
-A handy tool for packing and cataloging Scriptable Objects of a given type into one database.
+A handy tool for packing and cataloguing Scriptable Objects of a given type into one database.
 
 ![image](https://github.com/user-attachments/assets/d97f288b-8568-4202-85e6-909a1f1f9364)
 
