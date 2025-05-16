@@ -5,3 +5,5 @@ Can be gathered via Reflection from everywhere in the project by pressing "Refre
 
 Every template object is required to have a unique string id,which is automatically filled based on the object name (enforcing requirement for every Scriptable Object to have a unique name).
 
+Dependencies to other plugins:
+- NaughtyAttributes: https://github.com/dbrizov/NaughtyAttributes
