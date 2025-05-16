@@ -1,4 +1,7 @@
+# Template Database
+
 A handy tool for packing and cataloging Scriptable Objects of a specific type into one database.
+
 ![image](https://github.com/user-attachments/assets/d97f288b-8568-4202-85e6-909a1f1f9364)
 
 Can be gathered via Reflection from everywhere in the project by pressing "Refresh" button in the Editor on a selected database.
